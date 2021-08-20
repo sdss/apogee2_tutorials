@@ -15,7 +15,7 @@ ASPCAP parameters, element abundances, and uncertainties for all stars in the ma
 - Following the advice on [Using Targets/Samples](https://sdss.org/dr17/irspec/targettingbits/), the [APOGEE_EXTRATARG](https://sdss.org/dr17/irspec/apogee-bitmasks/#EXTRATARG:basictargetinginformation) will have no bits set if the star is in the main red star sample.
 
 ### Python
-- A Juypter Notebook provides an example of [how to select this sample](APOGEE Example 1.ipynb)
+- A Juypter Notebook provides an example of [how to select this sample](APOGEE_Keil_Diagram.ipynb)
  
 ## Get element abundances for stars flagged as known cluster members
 
@@ -27,7 +27,7 @@ Here, we provide an example of selecting objects chosen to be calibrator stars i
 The spectroscopic Hertzsprung-Russell Diagram is key figure to generate from the stellar parameters determined from ASPCAP. To select this sample, the user should select stars with reliable stellar parameters following the advice on [Using Stellar Parameters](https://sdss.org/dr17/irspec/parameters). The different tools provide different levels of specificity for defining this sample, but generally one wants to select for stars with good ASPCAP fits using [APOGEE_ASPCAPFLAG](https://sdss.org/dr17/irspec/apogee-bitmasks/#APOGEE_ASPCAPFLAG:ASPCAPstarlevelbitmask) options. Further constraints to the main red star sample or to exclude ancillary targets, for example, can be achieved by merging code from other examples
 
 ### Python
-- A Juypter Notebook provides an example of [how to make this diagram](APOGEE Example 1.ipynb)
+- A Juypter Notebook provides an example of [how to make this diagram](APOGEE_Keil_Diagram.ipynb)
 
 ## Making an Abundance Plot
 
