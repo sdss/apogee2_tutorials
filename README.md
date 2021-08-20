@@ -1,4 +1,3 @@
-# apogee2_tutorials
-Place for user-contributed code that use APOGEE-2 data (and data models) to do common user tasks.
+# APOGEE2 Examples & Tutorials 
 
-The idea is to host a number of python notebooks (other code is welcome too) that mimic common tasks with APOGEE-2 DR17 data (e.g., things on the Examples and Tutorials pages in the web docs). 
+This Repository hosts [Examples](examples) & Tutorials using APOGEE2 data from DR17. 
