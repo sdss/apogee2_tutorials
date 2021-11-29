@@ -1,7 +1,7 @@
 # Examples 
 This section has code snippets affiliated with the APOGEE2 DR17 [Examples Web Documentation](https://www.sdss.org/dr17/irspec/catalogs/). 
 
-For each of the following science applications, we try to explain how one would go about investigating using the Catalog Archive Server (SQL), Science Archive WebApplication (Web Application), and Science Archive Server (File Server, with examples in IDL and Python). 
+For each of the following science applications, we try to explain how one would go about investigating using the *Catalog Archive Server* (SQL), *Science Archive WebApp* (Web Application), and *Science Archive Server* (File Server, with examples in IDL and Python). Many instructions for the *Science Archive Server* can also be applied to the [SciServer](https://www.sciserver.org/), which is a server-side computational platform. 
  
 For those unfamiliar with how SDSS data is stored, here is a summary: 
 
@@ -10,6 +10,7 @@ For those unfamiliar with how SDSS data is stored, here is a summary:
 | Catalog Archive Server or CAS | SQL database | [APOGEE2 Data in the CAS](https://testng.sdss.org/dr17/irspec/spectro_data/#cas) & [Basic CAS Tutorial for APOGEE2 Data](https://testng.sdss.org/dr17/irspec/catalogs/#CAS)| 
 | Science Archive WebApp or SAW | GUI Web Application | [APOGEE2 Data in the SAW](https://testng.sdss.org/dr17/irspec/spectro_data/#ScienceArchiveWebapp(SAW)) & [Basic SAW Tutorial for APOGEE2 Data](https://testng.sdss.org/dr17/irspec/catalogs/#SAW) |
 | Science Archive Server or SAS | Flat File Server |[APOGEE2 Data in the SAS](https://testng.sdss.org/dr17/irspec/spectro_data/#ScienceArchiveServer(SAS)) | 
+| SciServer | Server-Side Computational Platform | SciServer provides access to the main APOGEE2 Summary Files and all Python code can be used in SciServer | 
 
 Users unfamiliar with the CAS (SQL) or SAW (Web Application) should consult the [CAS tutorial](https://testng.sdss.org/dr17/irspec/catalogs/#CAS) and [SAW tutorial](https://testng.sdss.org/dr17/irspec/catalogs/#SAW) sections on the [APOGEE2 DR17 Examples page](https://www.sdss.org/dr17/irspec/catalogs/). For most of these science applications, "Using the SAS" means loading the entire allStar summary file into memory via IDL or Python, and manipulating data to suit the science application.
 
