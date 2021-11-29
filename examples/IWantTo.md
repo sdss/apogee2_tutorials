@@ -1,4 +1,5 @@
-Novice users of APOGEE2 data may not know exactly what they want to do. 
+SDSS makes data available in a large number of formats. 
+
 
 | I want to ... | Data Tool | What to do |
 |---------------|----------------|-------|
