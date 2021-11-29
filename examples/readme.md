@@ -31,7 +31,7 @@ The spectroscopic Hertzsprung-Russell Diagram is key figure to generate from the
 
 ## Making an Abundance Plot
 
-Another key plot is to compare the iron abundance, , to an -element like . Selecting stars for this application requires two steps. First, selecting stars with reliable ASPCAP fits based on ASPCAPFLAG and also by removing errant values with a set of cuts. Second, it is adviseable to sub-select regions of the galaxy. As in the H-R diagram example, further refinement of this sample can come from merging different examples on this page.
+Another key plot is to compare the iron abundance, \[Fe/H\] , to an alpha-element like \[Mg/Fe\]. Selecting stars for this application requires two steps. First, selecting stars with reliable ASPCAP fits based on ASPCAPFLAG and also by removing errant values with a set of cuts. Second, it is adviseable to sub-select regions of the galaxy. As in the H-R diagram example, further refinement of this sample can come from merging different examples on this page.
 
 ### Python 3
 - A Juypter Notebook provides an example of [how to make abundance plots for the inner and outer galaxy](APOGEE_Abundance_Plot.ipynb) using Galactic Latitude and Longitude.
