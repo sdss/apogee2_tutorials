@@ -1,7 +1,7 @@
 # I want to ... 
 SDSS makes data available in a large number of formats. It is hard to provide examples for all queries and all formats. 
 
-## Obtain information for a Single Target or a Handful of Targets 
+### Obtain information for a Single Target or a Handful of Targets 
 
 | I want to ... | Data Tool | What to do |
 |---------------|----------------|-------|
@@ -12,8 +12,9 @@ SDSS makes data available in a large number of formats. It is hard to provide ex
 | ... retrieve a spectrum of a single target. | SAW: WebApp Query |  [SAW](https://dr16.sdss.org/infrared/spectrum/search):: Enter Coordinates or 2MASS ID number, use data download options. |
 
 
-## Obtain information for a Number of Targets based on Targeting Criteria
+### Obtain information for a Number of Targets based on Targeting Criteria
 
 
-## Obtain information for a Number of Targets based on Measured Parameters
+### Obtain information for a Number of Targets based on Measured Parameters
 
+### Explore the Data
