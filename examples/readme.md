@@ -11,9 +11,9 @@ For those unfamiliar with how SDSS data is stored, here is a summary:
 | Science Archive WebApp or SAW | GUI Web Application | [APOGEE2 Data in the SAW](https://testng.sdss.org/dr17/irspec/spectro_data/#ScienceArchiveWebapp(SAW)) & [Basic SAW Tutorial for APOGEE2 Data](https://testng.sdss.org/dr17/irspec/catalogs/#SAW) |
 | Science Archive Server or SAS | Flat File Server |[APOGEE2 Data in the SAS](https://testng.sdss.org/dr17/irspec/spectro_data/#ScienceArchiveServer(SAS)) | 
 
-Users unfamiliar with the CAS (SQL) or SAW (Web Application) should consult the CAS tutorial and SAW tutorial sections on this page. For most of these science applications, "Using the SAS" means loading the entire allStar summary file into memory via IDL or Python, and manipulating data to suit the application.
+Users unfamiliar with the CAS (SQL) or SAW (Web Application) should consult the [CAS tutorial](https://testng.sdss.org/dr17/irspec/catalogs/#CAS) and [SAW tutorial](https://testng.sdss.org/dr17/irspec/catalogs/#SAW) sections on the [APOGEE2 DR17 Examples page](https://www.sdss.org/dr17/irspec/catalogs/). For most of these science applications, "Using the SAS" means loading the entire allStar summary file into memory via IDL or Python, and manipulating data to suit the science application.
 
-Spectral data is stored in FITS image files. There are standard packages in IDL and Python for using these files; useful information regarding using these files can be found here. All of our data models and, in consequence, the examples below assume a familiarity with these file formats.
+Spectral data is stored in FITS image files. There are standard packages in IDL and Python for using these files; useful information regarding using these files has been summarised on the [https://testng.sdss.org/dr17/software/fitsfiles/](SDSS Web Documentation). All of the [APOGEE2 data models](https://data.sdss.org/datamodel/index-files.html) and, in consequence, the examples below assume a familiarity with these file formats.
 
 ## Get Stellar Parameters and Abundances for the Main Red Star Sample
 
