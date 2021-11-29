@@ -8,8 +8,8 @@ For those unfamiliar with how SDSS data is stored, here is a summary:
 | Tool | Description | Link |
 -------|-------------|------|
 | Catalog Archive Server or CAS | SQL database | [APOGEE2 Data in the CAS](https://testng.sdss.org/dr17/irspec/spectro_data/#cas) & [Basic CAS Tutorial for APOGEE2 Data](https://testng.sdss.org/dr17/irspec/catalogs/#CAS)| 
-| Science Archive WebApp or SAW | GUI Web Application | [APOGEE2 Data in the SAW] |
-| Science Archive Server or SAS | Flat File Server |[APOGEE2 Data in the SAS] | 
+| Science Archive WebApp or SAW | GUI Web Application | [APOGEE2 Data in the SAW](https://testng.sdss.org/dr17/irspec/spectro_data/#ScienceArchiveWebapp(SAW)) & [Basic SAW Tutorial for APOGEE2 Data](https://testng.sdss.org/dr17/irspec/catalogs/#SAW) |
+| Science Archive Server or SAS | Flat File Server |[APOGEE2 Data in the SAS](https://testng.sdss.org/dr17/irspec/spectro_data/#ScienceArchiveServer(SAS)) | 
 
 Users unfamiliar with the CAS (SQL) or SAW (Web Application) should consult the CAS tutorial and SAW tutorial sections on this page. For most of these science applications, "Using the SAS" means loading the entire allStar summary file into memory via IDL or Python, and manipulating data to suit the application.
 
