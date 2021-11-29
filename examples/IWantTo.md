@@ -1,5 +1,7 @@
-SDSS makes data available in a large number of formats.
+# I want to ... 
+SDSS makes data available in a large number of formats. It is hard to provide examples for all queries and all formats. 
 
+## Obtain information for a Single Target or a Handful of Targets 
 
 | I want to ... | Data Tool | What to do |
 |---------------|----------------|-------|
@@ -8,3 +10,10 @@ SDSS makes data available in a large number of formats.
 | ... retrieve results for a single target. | CAS: SQL query |  |
 |                                           | SAW: WebApp Query | | 
 | ... retrieve a spectrum of a single target. | SAW: WebApp Query |  [SAW](https://dr16.sdss.org/infrared/spectrum/search):: Enter Coordinates or 2MASS ID number, use data download options. |
+
+
+## Obtain information for a Number of Targets based on Targeting Criteria
+
+
+## Obtain information for a Number of Targets based on Measured Parameters
+
