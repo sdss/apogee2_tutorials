@@ -1,5 +1,5 @@
 # Examples 
-This section has code snippets affiliated with the [Examples Web Documentation](https://www.sdss.org/dr16/irspec/catalogs/). 
+This section has code snippets affiliated with the APOGEE2 DR17 [Examples Web Documentation](https://www.sdss.org/dr17/irspec/catalogs/). 
 
 For each of the following science applications, we try to explain how one would go about investigating using the CAS (SQL), SAW (Web Application), and SAS (File Server, both IDL and Python). 
 
